@@ -9,7 +9,7 @@ configure your system so you can start working with the database.
 First, you need to download Docker of the official website: https://www.docker.com/get-started/
 When you downloaded the file and opened Docker Desktop Installer, you should choose Option Enable WSL 2 Windows Features, after that Docker Desktop will be installed. After a successful installation, you should restart your pc.
 
-Next, you should see a window with the caption "WSL2 installation is incomplete". Click the link in the window and download WSL2-Linux-Kernal. After downloading
+Next, you should see a window with the caption "WSL2 installation is incomplete". Click the link in the window and download WSL2-Linux-Kernal. After the download,
 open the file for a quick installation. Following this, you should again restart your pc. 
 
 When the pc restarted, you can open Docker Desktop and need to activate in Docker Settings under Resources WSL Integration.
